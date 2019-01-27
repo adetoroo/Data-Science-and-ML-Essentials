@@ -1,0 +1,8 @@
+title: Data Science and Machine Learning Essentials
+description: Learn data science with the experts
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-time-machine
+
+gems:
+  - jekyll-mentions
